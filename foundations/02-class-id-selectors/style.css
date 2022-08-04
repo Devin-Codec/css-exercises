@@ -1,0 +1,21 @@
+/* CSS STYLE */
+
+.odd {
+    background-color: rgba(255,0,0,0.7);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#uni_1 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#uni_2 {
+    background-color: rgba(0,255,0,0.7);
+    font-size: 24px;
+    font-weight: bold;
+}
